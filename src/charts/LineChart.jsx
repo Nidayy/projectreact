@@ -93,7 +93,7 @@ function LineChart({ data }) {
 
   return (
     <div> 
-      <canvas ref={chartRef} width="400" height="200" />
+      <canvas ref={chartRef} width="400" height="170" />
       <button 
         onClick={downloadChart} style={{
           backgroundColor: '#4CAF50',  
