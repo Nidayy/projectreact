@@ -19,7 +19,7 @@ Bu proje, finansal ve müşteri verilerini kullanarak farklı türde grafikler o
 
 Bu projede veriler, dışarıdan API veya veri tabanından çekilmek yerine, mock statik veri setleri olarak komponentler içinde tanımlanmıştır.
 
-![Chart Screenshot](./charts/images/charts.png)
+![Chart Screenshot](./charts/images/grafik.png)
 
 
 # Getting Started with Create React App
