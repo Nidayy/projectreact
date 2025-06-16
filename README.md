@@ -1,3 +1,27 @@
+# React Chart Visualization Project
+
+Bu proje, finansal ve müşteri verilerini kullanarak farklı türde grafikler oluşturmak için React ve Chart.js kütüphanesini kullanır. Proje kapsamında hem çizgi ve çubuk grafikler hem de ısı haritası (heatmap) görselleştirmeleri yapılmaktadır.
+
+## Projenin Amacı
+
+- Finansal ve demografik verilerin görselleştirilmesi,
+- Dinamik olarak çoklu çizgi ve çubuk grafikler oluşturulması,
+- Korelasyon matrislerini göstermek için ısı haritası (heatmap) kullanılması,
+- Kullanıcının veriler arasındaki ilişkileri ve trendleri kolayca analiz edebilmesi.
+
+## Kullanılan Teknolojiler
+
+- React.js
+- Chart.js
+- JavaScript (ES6+)
+
+## Veri Kaynağı
+
+Bu projede veriler, dışarıdan API veya veri tabanından çekilmek yerine, mock statik veri setleri olarak komponentler içinde tanımlanmıştır.
+
+![Chart Screenshot](./charts/images/charts.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
